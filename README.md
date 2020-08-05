@@ -1,4 +1,4 @@
-<img src="https://github.com/jeffersonbraster/jeffersonbraster/blob/master/git/jeffersonGit.gif?raw=true"/>
+<img src="https://github.com/jeffersonbraster/jeffersonbraster/blob/master/git/jeffMe.gif?raw=true"/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white&link=https://github.com/jeffersonbraster)](https://github.com/jeffersonbraster)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-brandao-dev/)](https://www.linkedin.com/in/jefferson-brandao-dev/)
